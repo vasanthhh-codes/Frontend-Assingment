@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "id": 101,
+          "title": "Compliance Summary",
+          "text": "Random text 1 about CSPM posture"
+        },
+        {
+          "id": 102,
+          "title": "Risk Overview",
+          "text": "Random text 2: risks and alerts"
+        },
+        {
+          "id": 103,
+          "title": "Top Misconfigurations",
+          "text": "Random text 3: top issues"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Network Monitoring",
+      "widgets": [
+        {
+          "id": 201,
+          "title": "Traffic Snapshot",
+          "text": "Random text A: traffic overview"
+        },
+        {
+          "id": 202,
+          "title": "Latency Heatmap",
+          "text": "Random text B: latency by region"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Identity & Access",
+      "widgets": [
+        {
+          "id": 301,
+          "title": "Active Roles",
+          "text": "Random text X: roles and permissions"
+        }
+      ]
+    }
+  ]
+}
